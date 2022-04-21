@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BloodHunterAI : MonoBehaviour
 {
-    public bool AffectedByFlashLight;
+    public bool AffectedByFlashBang;
     public bool SeePlayer;
     public bool CatchPlayer;
 
